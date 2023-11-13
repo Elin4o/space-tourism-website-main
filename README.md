@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Space Tourism](https://elin4o.github.io/space-tourism-website-main/)
 
 ## My process
 
