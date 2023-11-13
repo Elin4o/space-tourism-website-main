@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile Home Page](<Screenshot 2023-11-13 at 09-47-29 Frontend Mentor Space tourism website.png>) 
-![Desktop Home Page](<Screenshot 2023-11-13 at 09-47-14 Frontend Mentor Space tourism website.png>) 
-![Mobile Planets Page](<Screenshot 2023-11-13 at 09-47-04 Frontend Mentor Space tourism website.png>) 
-![Desktop Planets Page](<Screenshot 2023-11-13 at 09-47-40 Frontend Mentor Space tourism website.png>) 
-![Mobile Crew Page](<Screenshot 2023-11-13 at 09-46-47 Frontend Mentor Space tourism website.png>) 
-![Desktop Crew Page](<Screenshot 2023-11-13 at 09-47-49 Frontend Mentor Space tourism website.png>)
-![Mobile Technology Page](<Screenshot 2023-11-13 at 09-46-23 Frontend Mentor Space tourism website.png>) 
-![Desktop Technology Page](<Screenshot 2023-11-13 at 09-48-03 Frontend Mentor Space tourism website.png>) 
+![Home Desktop](https://github.com/Elin4o/space-tourism-website-main/assets/61417642/cff810e9-72b1-4b30-90bb-d5c78189230d)
+![Home Mobile](https://github.com/Elin4o/space-tourism-website-main/assets/61417642/1504c90d-a118-4104-966d-520bf1e50f80)
+![Planets Desktop](https://github.com/Elin4o/space-tourism-website-main/assets/61417642/d623e27b-fff2-4134-b895-367a69ce4cc5)
+![Planets Mobile](https://github.com/Elin4o/space-tourism-website-main/assets/61417642/2d1b44d4-9f7e-4081-b316-82be6531204a)
+![Crew Desktop](https://github.com/Elin4o/space-tourism-website-main/assets/61417642/2335c29b-d895-4179-9a05-acb5a3b6b8ed)
+![Crew Mobile](https://github.com/Elin4o/space-tourism-website-main/assets/61417642/d68ecd55-c6bb-4635-ad89-58d494a0f47c)
+![Technology Desktop](https://github.com/Elin4o/space-tourism-website-main/assets/61417642/c239260a-ba58-45ac-9e85-60ff95a99d37)
+![Technology Mobile](https://github.com/Elin4o/space-tourism-website-main/assets/61417642/21a58bd0-4f96-40c8-b4d2-45772bbeab35)
 
 ### Links
 
